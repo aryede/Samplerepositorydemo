@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 console.log("Here is a new File")
 
+=======
+this is demo new file
+>>>>>>> af39937bb2fca7e5f62a0fa8bc38c631d4f2ad41
